@@ -15,7 +15,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/facundowertmuller/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/facundo-wertmuller/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/> </a>
   <a href="https://github.com/wertmullerf" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" width="40" height="40"/> </a>
 </p>
 
