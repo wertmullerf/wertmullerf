@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/4D3DhzVOu-oAAAAC/press-any-key-any-key.gif"/>
 
 - 🚀 Siempre metido en algún proyecto nuevo y probando ideas.
-- 📚 Ahora metiéndome más a fondo con **Java** y lógica de programación.
+- 📚 Ahora metiéndome más a fondo con **React** y lógica de programación.
 - 💡 Me gusta entender cómo funciona todo por dentro y aplicar lo que aprendo en proyectos reales.
 - 📩 ¿Charlamos? → **wertmullerf@gmail.com**
 
