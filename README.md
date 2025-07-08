@@ -50,7 +50,6 @@
 <h3 align="left">🚧 Últimos proyectos:</h3>
 
 - 🍔 **Sistema de pedidos para hamburgueserías** – Supabase y React.  
-- 🎨 **Portfolio 3D** – Integración de un modelo hecho en Blender al sitio web.  
 - 🛒 **Tienda de vinos** – WooCommerce + campañas, banners y automatizaciones.  
 - 👔 **Landing corporativa** – M.R.S Consulting (servicios empresariales).  
 - 🛍️ **Catálogo de remeras** – WooCommerce en modo catálogo, filtros por color con ACF.
