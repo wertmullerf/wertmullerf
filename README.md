@@ -35,3 +35,26 @@
   <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
   <a href="https://wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/> </a>
 </p>
+
+---
+
+<h3 align="left">📊 Estadísticas de GitHub:</h3>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=wertmullerf&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wertmullerf&layout=compact&theme=radical" alt="top-langs" height="160"/>
+</p>
+
+---
+
+<h3 align="left">🚧 Últimos proyectos:</h3>
+
+- 🍔 **Sistema de pedidos para hamburgueserías** – Supabase y React.  
+- 🎨 **Portfolio 3D** – Integración de un modelo hecho en Blender al sitio web.  
+- 🛒 **Tienda de vinos** – WooCommerce + campañas, banners y automatizaciones.  
+- 👔 **Landing corporativa** – M.R.S Consulting (servicios empresariales).  
+- 🛍️ **Catálogo de remeras** – WooCommerce en modo catálogo, filtros por color con ACF.
+
+---
+
+<h4 align="center">Siempre aprendiendo. Siempre construyendo. 🚀</h4>
