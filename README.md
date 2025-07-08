@@ -6,7 +6,7 @@
 - 🚀 Siempre metido en algún proyecto nuevo y probando ideas.
 - 📚 Ahora metiéndome más a fondo con **React** y lógica de programación.
 - 💡 Me gusta entender cómo funciona todo por dentro y aplicar lo que aprendo en proyectos reales.
-- 📩 ¿Charlamos? → **wertmullerf@gmail.com**
+- 📩 ¿Charlamos? → **fwertmuller@gmail.com**
 
 ---
 
