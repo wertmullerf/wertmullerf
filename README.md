@@ -59,8 +59,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wertmullerf&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wertmullerf&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-eta-two-16.vercel.app/api?username=wertmullerf&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-eta-two-16.vercel.app/api/top-langs/?username=wertmullerf&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
