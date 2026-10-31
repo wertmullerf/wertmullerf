@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Facundo Wertmuller</h1>
-<h3 align="center">Full Stack Developer · Estudiante de Lic. en Sistemas (UNLP) · La Plata, Argentina</h3>
+<h3 align="center">Software Developer · Estudiante de Lic. en Sistemas (UNLP) · La Plata, Argentina</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/facundo-wertmuller/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
