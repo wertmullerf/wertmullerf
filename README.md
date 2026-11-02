@@ -2,15 +2,6 @@
 
 Software developer en La Plata. De día laburo en **CeSPI (UNLP)** sobre el SEM, el estacionamiento medido que usan millones de personas en varios municipios. De noche armo mis propios productos.
 
-```ts
-const facu = {
-  laburo: "CeSPI (UNLP) · desde 2024",
-  proyecto: "facilito 🍔",
-  meGusta: ["sistemas que aguantan uso real", "entender cómo funcionan las cosas por dentro"],
-  mate: true,
-};
-```
-
 ### 🍔 facilito
 
 Empecé haciendo un sistema de pedidos para una hamburguesería y no paré hasta convertirlo en un producto: **[facilito](https://pedifacilito.com.ar)**, una tienda online y sistema de pedidos para locales de comida, con una o varias sucursales.
