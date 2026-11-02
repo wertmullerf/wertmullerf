@@ -2,7 +2,14 @@
 
 Software developer en La Plata. De día laburo en **CeSPI (UNLP)** sobre el SEM, el estacionamiento medido que usan millones de personas en varios municipios. De noche armo mis propios productos.
 
-### 🍔 facilito
+<br/>
+
+<a href="https://pedifacilito.com.ar">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://pedifacilito.com.ar/brand/facilito-horizontal-coral-sobre-oscuro.svg">
+    <img src="https://pedifacilito.com.ar/brand/facilito-horizontal-coral.svg" height="56" alt="facilito"/>
+  </picture>
+</a>
 
 Empecé haciendo un sistema de pedidos para una hamburguesería y no paré hasta convertirlo en un producto: **[facilito](https://pedifacilito.com.ar)**, una tienda online y sistema de pedidos para locales de comida, con una o varias sucursales.
 
